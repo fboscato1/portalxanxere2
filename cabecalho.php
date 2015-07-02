@@ -1,3 +1,4 @@
+		
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -47,7 +48,7 @@
 							<a href="index.html">Home</a>
 						</li>
 						<li>
-							<a href="living.html">Empregos</a>
+							<a href="emprego.php">Empregos</a>
 						</li>
 						<li>
 							<a href="education.html">Culinaria</a>
@@ -81,36 +82,20 @@
 				<!----//search-scripts---->
 				<div class="clearfix"></div>
 			</div>
+			
 			<div class="col-sm-4 header_right">
 				<div id="loginContainer">
-					<a href="teste2.html" id="loginButton"><img src="images/login.png"><span>Entrar</span></a>
-					<a href="index.php" id="loginButton"><img src="images/login.png"><span>Cadastrar</span></a>
-					<div id="loginBox">
-						<form id="loginForm">
-							<fieldset id="body">
-								<fieldset>
-									<label for="email">Email Address</label>
-									<input type="text" name="email" id="email">
-								</fieldset>
-								<fieldset>
-									<label for="password">Password</label>
-									<input type="password" name="password" id="password">
-								</fieldset>
-								<input type="submit" id="login" value="Sign in">
-								<label for="checkbox">
-									<input type="checkbox" id="checkbox">
-									<i>Remember me</i></label>
-							</fieldset>
-							<span><a href="#">Forgot your password?</a></span>
-						</form>
-
-					</div>
+					<a href="" id="loginButton"><span></span></a>
+					<a href="entrar.php" id="loginButton"><img src="images/login.png"><span>Entrar</span></a>
+					<a href="logar.php" id="loginButton"><img src="images/login.png"><span>Cadastrar</span></a>				
 				</div>
 				<div class="clearfix"></div>
 			</div>
 			<div class="clearfix"></div>
 		</div>
+	
 		<div class="banner">
+			
 			<!--Barra de Pesquisa -->
 			<!--<div class="container_wrap">
 			<h1>What are you looking for?</h1>
