@@ -103,12 +103,9 @@
 									<input type="checkbox" id="checkbox">
 									<i>Remember me</i></label>
 							</fieldset>
-							
-							<div class="col-sm-6 >
-							<span><a href="#">Esqueceu sua senha?</a></span>							
-							</div>	
+							<span><a href="#">Esqueceu sua senha?</a></span>														
 												
-							<span><a href="#">Refistre-se?</a></span>
+							
 							
 							
 						</form>
