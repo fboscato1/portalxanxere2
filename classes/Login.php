@@ -46,7 +46,7 @@ class Login
     {
         // check login form contents
         if (empty($_POST['user_name'])) {
-            $this->errors[] = "Username field was empty.";
+            $this->errors[] = "Campo Nome de usuário estava vazio.";
         } elseif (empty($_POST['user_password'])) {
             $this->errors[] = "Password field was empty.";
         } elseif (!empty($_POST['user_name']) && !empty($_POST['user_password'])) {

@@ -48,16 +48,16 @@
 							<a href="index.html">Home</a>
 						</li>
 						<li>
-							<a href="emprego.php">Empregos</a>
+							<a href="#">Empregos</a>
 						</li>
 						<li>
-							<a href="education.html">Culinaria</a>
+							<a href="#">Culinaria</a>
 						</li>
 						<li>
-							<a href="entertain.html">Entreterimento</a>
+							<a href="#">Entreterimento</a>
 						</li>
 						<li>
-							<a href="login.php">Vendas</a>
+							<a href="#">Vendas</a>
 						</li>
 						<div class="clearfix"></div>
 					</ul>
@@ -85,17 +85,43 @@
 			
 			<div class="col-sm-4 header_right">
 				<div id="loginContainer">
-					<a href="" id="loginButton"><span></span></a>
-					<a href="entrar.php" id="loginButton"><img src="images/login.png"><span>Entrar</span></a>
-					<a href="logar.php" id="loginButton"><img src="images/login.png"><span>Cadastrar</span></a>				
+					<a href="#" id="loginButton"><img src="images/login.png"><span>Login</span></a>
+					<div id="loginBox">
+						<form id="loginForm" method="post" action="logar.php" name="loginform">
+							<fieldset id="body">
+								<fieldset>
+									<label for="email">Email Address</label>
+									<input type="text"  id="email" name="user_name" required autofocus>
+								</fieldset>
+								<fieldset>
+									<label for="password">Password</label>
+									<input type="password"  id="password"name="user_password" requiredx>
+								</fieldset>								
+								<input class="btn btn-lg btn-primary btn-block btn-signin" type="submit" name="login" id="login" value="Sign in">
+							
+								<label for="checkbox">
+									<input type="checkbox" id="checkbox">
+									<i>Remember me</i></label>
+							</fieldset>
+							
+							<div class="col-sm-6 >
+							<span><a href="#">Esqueceu sua senha?</a></span>							
+							</div>	
+												
+							<span><a href="#">Refistre-se?</a></span>
+							
+							
+						</form>
+					</div>
 				</div>
 				<div class="clearfix"></div>
 			</div>
 			<div class="clearfix"></div>
 		</div>
-	
+
 		<div class="banner">
-			
+
+
 			<!--Barra de Pesquisa -->
 			<!--<div class="container_wrap">
 			<h1>What are you looking for?</h1>
@@ -204,4 +230,4 @@
 				</div>
 			</div>
 		</div>
-		<!--Fim do Cabeçalho-->
+						
