@@ -88,13 +88,13 @@ class Login
                         $_SESSION['user_login_status'] = 1;
 
                     } else {
-                        $this->errors[] = "Wrong password. Try again.";
+                        $this->errors[] = "Senha incorreta. tente novamente.";
                     }
                 } else {
-                    $this->errors[] = "This user does not exist.";
+                    $this->errors[] = "Este usuário não existe.";
                 }
             } else {
-                $this->errors[] = "Database connection problem.";
+                $this->errors[] = "Problema de conexão de banco de dados.";
             }
         }
     }
@@ -108,7 +108,7 @@ class Login
         $_SESSION = array();
         session_destroy();
         // return a little feeedback message
-        $this->messages[] = "You have been logged out.";
+        $this->messages[] = "Você foi desconectado.";
 
     }
 

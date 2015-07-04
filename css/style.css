@@ -500,7 +500,7 @@ a#loginButton img {
 	vertical-align: bottom;
 }
 .banner{
-	background: url(../images/_cabecalho/banner.jpg) no-repeat center top;
+	background: url(../images/_cabecalho/bg1.jpg) no-repeat center top;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -1623,7 +1623,7 @@ ul.service_grid li.desc1 p{
 }
 /*--footer--*/
 .footer{
-	background: url(../images/_cabecalho/footer.jpg) no-repeat center top;
+	background: url(../images/_cabecalho/bg1.jpg) no-repeat center top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1695,6 +1695,7 @@ ul.list1 li a{
 	font-size: 0.85em;
 	font-weight: 100;
 	line-height: 1.8em;
+	
 }
 .footer_top{
 	border-bottom: 1px solid #5b5953;
