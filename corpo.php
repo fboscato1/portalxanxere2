@@ -8,7 +8,7 @@
 									<div class="index_img"><img src="images/_imoveis/pic1.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
-										$2.980
+										R$2.981
 									</div>
 									<div class="mask">
 										<div class="info">
@@ -101,7 +101,7 @@
 									<div class="index_img"><img src="images/_imoveis/pic3.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
-										$2.980
+										R$2.981
 									</div>
 									<div class="mask">
 										<div class="info">
@@ -200,7 +200,7 @@
 									<div class="index_img"><img src="images/_imoveis/pic1.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
-										$2.980
+										R$2.981
 									</div>
 									<div class="mask">
 										<div class="info">
@@ -293,7 +293,7 @@
 									<div class="index_img"><img src="images/_imoveis/pic3.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
-										$2.980
+										R$2.981
 									</div>
 									<div class="mask">
 										<div class="info">
@@ -359,7 +359,7 @@
 									<div class="index_img"><img src="images/_imoveis/pic3.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
-										$2.980
+										R$2.981
 									</div>
 									<div class="mask">
 										<div class="info">
