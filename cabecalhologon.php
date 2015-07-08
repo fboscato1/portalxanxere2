@@ -39,7 +39,7 @@
 		<div class="header">
 			<div class="col-sm-8 header-left">
 				<div class="logo">
-					<a href="index.html"><img src="images/logo.png" alt=""/></a>
+					<a href="index.html"><img src="images/logo002.jpg" alt=""/></a>
 				</div>
 				<div class="menu">
 					<a class="toggleMenu" href="#"><img src="images/nav.png" alt="" /></a>
