@@ -5,7 +5,7 @@
 						<div class="col-md-3">
 							<div class="grid1">
 								<div class="view view-first">
-									<div class="index_img"><img src="images/pic1.jpg" class="img-responsive" alt=""/>
+									<div class="index_img"><img src="images/_imoveis/pic1.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
 										$2.980
@@ -98,7 +98,7 @@
 						<div class="col-md-3">
 							<div class="grid1">
 								<div class="view view-first">
-									<div class="index_img"><img src="images/pic3.jpg" class="img-responsive" alt=""/>
+									<div class="index_img"><img src="images/_imoveis/pic3.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
 										$2.980
@@ -133,7 +133,7 @@
 					<div class="middle_grid wow fadeInUp" data-wow-delay="0.4s">
 						<div class="col-md-6">
 							<div class="grid1">
-								<div class="index_img"><img src="images/pic4.jpg" class="img-responsive" alt=""/>
+								<div class="index_img"><img src="images/_imoveis/pic4.jpg" class="img-responsive" alt=""/>
 								</div>
 								<i class="m_home"> </i>
 								<ul class="vision">
@@ -197,7 +197,7 @@
 						<div class="col-md-3">
 							<div class="grid1">
 								<div class="view view-first">
-									<div class="index_img"><img src="images/pic1.jpg" class="img-responsive" alt=""/>
+									<div class="index_img"><img src="images/_imoveis/pic1.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
 										$2.980
@@ -290,7 +290,7 @@
 						<div class="col-md-3">
 							<div class="grid1">
 								<div class="view view-first">
-									<div class="index_img"><img src="images/pic3.jpg" class="img-responsive" alt=""/>
+									<div class="index_img"><img src="images/_imoveis/pic3.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
 										$2.980
@@ -356,7 +356,7 @@
 						<div class="col-md-3">
 							<div class="grid1">
 								<div class="view view-first">
-									<div class="index_img"><img src="images/pic3.jpg" class="img-responsive" alt=""/>
+									<div class="index_img"><img src="images/_imoveis/pic3.jpg" class="img-responsive" alt=""/>
 									</div>
 									<div class="sale">
 										$2.980
