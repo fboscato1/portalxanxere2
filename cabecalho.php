@@ -1,4 +1,3 @@
-		
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -6,7 +5,7 @@
 		<title>Portal Xanxerê</title>
 		<meta charset="UTF-8"  />
 		<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
-		
+
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<!-- Custom Theme files -->
 		<link href="css/style.css" rel='stylesheet' type='text/css' />
@@ -28,11 +27,11 @@
 		<!--Animation-->
 		<script src="js/wow.min.js"></script>
 		<link href="css/animate.css" rel='stylesheet' type='text/css' />
-		<link rel="stylesheet" href="/font-awesome-4.3.0/css/font-awesome.min.css">		
+		<link rel="stylesheet" href="/font-awesome-4.3.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="font-awesome-4.3.0/css/font-awesome.css">
-				<script>
-					new WOW().init();
-				</script>
+		<script>
+			new WOW().init();
+		</script>
 	</head>
 	<body>
 		<!--Inicio do Cabeçalho-->
@@ -82,7 +81,7 @@
 				<!----//search-scripts---->
 				<div class="clearfix"></div>
 			</div>
-			
+
 			<div class="col-sm-4 header_right">
 				<div id="loginContainer">
 					<a href="#" id="loginButton"><img src="images/login.png"><span>Login</span></a>
@@ -96,18 +95,15 @@
 								<fieldset>
 									<label for="password">Password</label>
 									<input type="password"  id="password"name="user_password" requiredx>
-								</fieldset>								
+								</fieldset>
 								<input class="btn btn-lg btn-primary btn-block btn-signin" type="submit" name="login" id="login" value="Sign in">
-							
+
 								<label for="checkbox">
 									<input type="checkbox" id="checkbox">
 									<i>Remember me</i></label>
 							</fieldset>
-							<span><a href="#">Esqueceu sua senha?</a></span>														
-												
-							
-							
-							
+							<span><a href="#">Esqueceu sua senha?</a></span>
+
 						</form>
 					</div>
 				</div>
@@ -117,7 +113,6 @@
 		</div>
 
 		<div class="banner">
-
 
 			<!--Barra de Pesquisa -->
 			<!--<div class="container_wrap">
@@ -160,10 +155,10 @@
 			<div class="clearfix"></div>
 			</div> -->
 		</div>
-	<div class="content_top">
-				<div class="container">
+		<div class="content_top">
+			<div class="container">
 				<div class="col-md-4 bottom_nav">
-				
+
 					<div class="content_menu">
 						<ul>
 							<li class="active">
@@ -178,54 +173,53 @@
 						</ul>
 					</div>
 				</div>
-			<div class="col-md-4 content_dropdown1">
+				<div class="col-md-4 content_dropdown1">
 					<div class="content_dropdown">
-					<!--	<select class="dropdown" tabindex="10" data-settings='{"wrapperClass":"metro"}'>
-							<option value="0">Dubai</option>
-							<option value="1">tempor</option>
-							<option value="2">congue</option>
-							<option value="3">mazim </option>
-							<option value="4">mutationem</option>
-							<option value="5">hendrerit </option>
-							<option value="5"></option>
-							<option value="5"></option>
-					</select>-->
+						<!--	<select class="dropdown" tabindex="10" data-settings='{"wrapperClass":"metro"}'>
+						<option value="0">Dubai</option>
+						<option value="1">tempor</option>
+						<option value="2">congue</option>
+						<option value="3">mazim </option>
+						<option value="4">mutationem</option>
+						<option value="5">hendrerit </option>
+						<option value="5"></option>
+						<option value="5"></option>
+						</select>-->
 					</div>
 					<div class="content_dropdown">
 						<!--<select class="dropdown" tabindex="10" data-settings='{"wrapperClass":"metro"}'>
-							<option value="0">Show Map</option>
-							<option value="1">tempor</option>
-							<option value="2">congue</option>
-							<option value="3">mazim </option>
-							<option value="4">mutationem</option>
-							<option value="5">hendrerit </option>
-							<option value="5"></option>
-							<option value="5"></option>
+						<option value="0">Show Map</option>
+						<option value="1">tempor</option>
+						<option value="2">congue</option>
+						<option value="3">mazim </option>
+						<option value="4">mutationem</option>
+						<option value="5">hendrerit </option>
+						<option value="5"></option>
+						<option value="5"></option>
 						</select>-->
 					</div>
 				</div>
 				<div class="col-md-4 filter_grid">
-				<!--	<ul class="filter">
-						<li class="fil">
-							Filter :
-						</li>
-						<li>
-							<a href=""> <i class="icon1"> </i> </a>
-						</li>
-						<li>
-							<a href=""> <i class="icon2"> </i> </a>
-						</li>
-						<li>
-							<a href=""> <i class="icon3"> </i> </a>
-						</li>
-						<li>
-							<a href=""> <i class="icon4"> </i> </a>
-						</li>
-						<li>
-							<a href=""> <i class="icon5"> </i> </a>
-						</li>
+					<!--	<ul class="filter">
+					<li class="fil">
+					Filter :
+					</li>
+					<li>
+					<a href=""> <i class="icon1"> </i> </a>
+					</li>
+					<li>
+					<a href=""> <i class="icon2"> </i> </a>
+					</li>
+					<li>
+					<a href=""> <i class="icon3"> </i> </a>
+					</li>
+					<li>
+					<a href=""> <i class="icon4"> </i> </a>
+					</li>
+					<li>
+					<a href=""> <i class="icon5"> </i> </a>
+					</li>
 					</ul>-->
 				</div>
 			</div>
-	</div>
-						
+		</div>

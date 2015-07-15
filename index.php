@@ -1,11 +1,11 @@
 <?php
-    include "cabecalho.php";
+include "cabecalho.php";
 ?>
 
-<?php   
-	include 'corpo.php';	
+<?php
+include 'corpo.php';
 ?>
 
-<?php  
-	include 'rodape.php';
+<?php
+include 'rodape.php';
 ?>
