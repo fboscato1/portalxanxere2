@@ -1067,6 +1067,7 @@ ul.filter li a i.icon5{
 .view:hover .sale{
 	display:none;
 }
+/*Edita os icones da fostos da pagina inicial*/
 i.home{
 	width: 67px;
 	height: 67px;
@@ -1089,6 +1090,15 @@ i.home2{
 	width: 67px;
 	height: 67px;
 	background: url(../images/img-sprite.png)no-repeat -170px -94px;
+	display: block;
+	position: absolute;
+	bottom:100px;
+	right:93px;
+}
+i.home3{
+	width: 67px;
+	height: 67px;
+	background: url(../images/img-sprite.png)no-repeat -96px -20px;
 	display: block;
 	position: absolute;
 	bottom:100px;
