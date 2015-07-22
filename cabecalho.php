@@ -47,7 +47,7 @@
 							<a href="index.html">Home</a>
 						</li>
 						<li>
-							<a href="#">Empregos</a>
+							<a href="emprego.php">Empregos</a>
 						</li>
 						<li>
 							<a href="#">Culinaria</a>

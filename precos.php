@@ -1,6 +1,6 @@
 <div class="col-md-3 wow fadeInLeft" data-wow-delay="0.4s">
 	<div class="living_box">
-		<a href="#"> <img src="images/l1.jpg" class="img-responsive" alt=""/> <span class="sale-box"> <span class="sale-label">Apartment</span> </span> </a>
+		<a href="#"> <img src="images/l1.jpg" class="img-responsive" alt=""/> <span class="sale-box"> <span class="sale-label">Apartamento</span> </span> </a>
 		<div class="living_desc">
 			<h3><a href="#">aliquam volutp</a></h3>
 			<p>
