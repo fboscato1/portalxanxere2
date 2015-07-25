@@ -48,6 +48,53 @@ include "cabecalho.php";
 		<?php
 		include '/vendas/isabella.php';
 		?>
+		<div class="col-md-3 wow fadeInLeft" data-wow-delay="0.4s">
+			<div class="living_box">
+
+				<a href="#"> <img class="img-responsive" src="images/l3.jpg" alt=""> <span class="sale-box"> <span class="sale-label">Apartamento</span> </span> </a>
+				<div class="living_desc">
+					<h3><a href="#">Project Name</a></h3>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.
+					</p>
+				</div>
+				<table border="1" class="propertyDetails">
+					<tbody>
+						<tr>
+							<td><img src="images/area.png" alt="" style="margin-right:7px;">2,412m</td>
+							<td><img src="images/bed.png" alt="" style="margin-right:7px;">6 Beds</td>
+							<td><img src="images/drop.png" alt="" style="margin-right:7px;">3 Baths</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+
+		<div class="col-md-4 wow fadeInLeft" data-wow-delay="0.3s">
+			<div class="living_box">
+				<a href="#"> <img src="images/l1.jpg" class="img-responsive" alt=""/> <span class="sale-box"> <span class="sale-label">Apartamento</span> </span> </a>
+				<div class="living_desc">
+					<h3><a href="#">aliquam volutp</a></h3>
+					<p>
+						Lorem ipsum consectetuer adipiscing
+					</p>
+					<a href="#" class="btn3">Detalhes</a>
+					<p class="price">
+						$687,000
+					</p>
+				</div>
+				<table border="1" class="propertyDetails">
+					<tbody>
+						<tr>
+							<td><img src="images/area.png" alt="" style="margin-right:7px;">48.400,00m</td>
+							<td><img src="images/bed.png" alt="" style="margin-right:7px;">6 Dormitorios</td>
+							<td><img src="images/drop.png" alt="" style="margin-right:7px;">3 Quartos</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
 	</div>
 </div>
 
