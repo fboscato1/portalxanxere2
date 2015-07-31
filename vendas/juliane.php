@@ -14,7 +14,7 @@
 		<table border="1" class="propertyDetails">
 			<tbody>
 				<tr>
-					<td><img src="images/area.png" alt="" style="margin-right:7px;">84,412m</td>
+					<td><img src="images/area.png" alt="" style="margin-right:7px;">84,412m&sup2</td>
 					<td><img src="images/bed.png" alt="" style="margin-right:7px;">3 Beds</td>
 					<td><img src="images/drop.png" alt="" style="margin-right:7px;">1 Baths</td>					
 				</tr>

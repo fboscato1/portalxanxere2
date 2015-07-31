@@ -44,7 +44,7 @@
 					<a class="toggleMenu" href="#"><img src="images/nav.png" alt="" /></a>
 					<ul class="nav" id="nav">
 						<li class="active">
-							<a href="index.html">Home</a>
+							<a href="index.php">Home</a>
 						</li>
 						<li>
 							<a href="emprego.php">Empregos</a>
