@@ -1,0 +1,89 @@
+/* Cor Principal */
+
+.bgColor1,
+.bgHover1:hover,
+.mlpm_w .levelHolderClass,
+.mlpm_w .mlpm_inactive,
+.filtroImovel .titleFilter:hover,
+.filtroImovel .fAtivo.titleFilter,
+.modoVisualizacao .ativo,
+.tooltip-inner,
+.sp-previous-arrow:before,
+.sp-previous-arrow:after, .sp-next-arrow:before,
+.sp-next-arrow:after, .sp-previous-thumbnail-arrow:before,
+.sp-previous-thumbnail-arrow:after, 
+.sp-next-thumbnail-arrow:before,
+.sp-next-thumbnail-arrow:after,
+.done .bgHover1,
+.steps .bs-wizard-step.done .bs-wizard-dot,
+.steps .bs-wizard-step.done .progress,
+.steps .bs-wizard-step.done .progress .progress-bar,
+li.ui-state-focus,
+.ui-widget-content .ui-state-hover { background:#285d61 !important; }
+
+a, .list-cadastros i,
+#lancamento02 .destaque .features .valores p,
+.ui-state-default:hover .ui-selectmenu-text, 
+.ui-state-default:hover .ui-icon,
+.ui-multiselect:hover span,
+.ui-multiselect:hover i { color:#285d61; }
+
+.color1,
+.cHover1:hover,
+#menuServicos ul .active .btRoot,
+#menuServicos ul .active .activeItem,
+#buscaAvancada01 .navBusca .active a,
+#chamadas06 .chamada:hover .icone i,
+#ddlBairro2:hover, 
+#ddlBairro2:hover span.ui-icon,
+.jsNavAbas .bAtiva a { color:#285d61 !important; }
+
+.borderColor1,
+.borderHover1:hover,
+#busca02 .nav-pills > li.active,
+#superDestaque02 .thumb-container.selected .thumb-overlay,
+#lancamento02 .destaque:hover .features,
+.ui-state-default:hover,
+#ddlBairro2:hover,
+#chamadas06 .chamada:hover .icone,
+.tabs-square .nav-pills > li.active,
+.boxSuperDestaqueSideThumbs .sp-thumbnail-container.sp-selected-thumbnail .sp-thumbnail { border-color:#285d61 !important; }
+
+.tooltip.right .tooltip-arrow { border-right-color:#285d61; }
+.tooltip.bottom .tooltip-arrow { border-bottom-color:#285d61 !important; }
+
+/* Cor Secundaria */
+.bgColor2,
+.bgHover2:hover,
+.mlpm_w li:hover,
+.steps .current .bs-wizard-dot,
+#bannerUniversidade .bgColorBanner,
+.tabs-square .nav-pills > li:hover a { background:#2972cc !important; }
+
+.color2,
+.cHover2:hover,
+#busca01 .customSelectChangedWithValue i,
+#busca01 .customSelectChangedWithValue span, 
+#menuServicos ul li .subItens .active { color:#2972cc !important; }
+
+a:hover,a:focus {color:#2972cc; }
+
+.borderColor2,
+.borderHover2:hover { border-color:#2972cc !important; }
+
+input[type="radio"]:checked:after {background-color: #2972cc;}
+
+.steps .bs-wizard-step .bs-wizard-info:after { border-bottom-color: #2972cc !important; }
+
+/* Cor Background */
+body,
+.bgColor3 { background:#FFF7F0; }
+
+/* Geral */
+.tabs-square .nav-pills > li:hover a,
+li.ui-state-focus,
+.ui-widget-content .ui-state-hover,
+.ui-multiselect-header a,
+.ui-multiselect-header a .ui-icon { color: #FFF !important; }
+
+.ui-multiselect-header { background: #BCBCBC !important; }

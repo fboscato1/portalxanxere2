@@ -1,0 +1,93 @@
+/*
+  Icon Font: gaia-fontawesome
+*/
+
+@font-face {
+	font-family: 'gaia-fontawesome';
+	src: url('fonts/gaia-fontawesome_289974d70b6796ef888bdd78bebe1d20.eot?v=4.3.0');
+	src: url('fonts/gaia-fontawesome_289974d70b6796ef888bdd78bebe1d20.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('fonts/gaia-fontawesome_289974d70b6796ef888bdd78bebe1d20.woff2?v=4.3.0') format('woff2'), url('fonts/gaia-fontawesome_289974d70b6796ef888bdd78bebe1d20.woff?v=4.3.0') format('woff'), url('fonts/gaia-fontawesome_289974d70b6796ef888bdd78bebe1d20.ttf?v=4.3.0') format('truetype'), url('fonts/gaia-fontawesome_289974d70b6796ef888bdd78bebe1d20.svg?v=4.3.0#fontawesomeregular') format('svg');
+	font-weight: normal;
+	font-style: normal
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.ga-bathroom-01:before,
+.ga-bathroom-02:before,
+.ga-bedrooms-01:before,
+.ga-call-center-01:before,
+.ga-chat-01:before,
+.ga-check-01:before,
+.ga-claro-01:before,
+.ga-cloud-01:before,
+.ga-code-01:before,
+.ga-connection-01:before,
+.ga-dashboard-01:before,
+.ga-dashboard-02:before,
+.ga-doc-01:before,
+.ga-doc-upload-01:before,
+.ga-garage-01:before,
+.ga-garage-02:before,
+.ga-launch-01:before,
+.ga-mobile-phone-02:before,
+.ga-money-01:before,
+.ga-nextel-01:before,
+.ga-oi-01:before,
+.ga-partner-01:before,
+.ga-partner-02:before,
+.ga-partner-03:before,
+.ga-popup-01:before,
+.ga-radar-01:before,
+.ga-responsive-01:before,
+.ga-ruler:before,
+.ga-security-01:before,
+.ga-sign-sell-01:before,
+.ga-tim-01:before,
+.ga-vivo-01:before {
+  display: inline-block;
+  font-family: "gaia-fontawesome";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.ga-bathroom-01:before { content: "\f103"; }
+.ga-bathroom-02:before { content: "\f104"; }
+.ga-bedrooms-01:before { content: "\f10a"; }
+.ga-call-center-01:before { content: "\f105"; }
+.ga-chat-01:before { content: "\f10b"; }
+.ga-check-01:before { content: "\f111"; }
+.ga-claro-01:before { content: "\f11b"; }
+.ga-cloud-01:before { content: "\f10c"; }
+.ga-code-01:before { content: "\f112"; }
+.ga-connection-01:before { content: "\f10d"; }
+.ga-dashboard-01:before { content: "\f10e"; }
+.ga-dashboard-02:before { content: "\f113"; }
+.ga-doc-01:before { content: "\f114"; }
+.ga-doc-upload-01:before { content: "\f106"; }
+.ga-garage-01:before { content: "\f100"; }
+.ga-garage-02:before { content: "\f101"; }
+.ga-launch-01:before { content: "\f115"; }
+.ga-mobile-phone-02:before { content: "\f107"; }
+.ga-money-01:before { content: "\f108"; }
+.ga-nextel-01:before { content: "\f11c"; }
+.ga-oi-01:before { content: "\f11d"; }
+.ga-partner-01:before { content: "\f118"; }
+.ga-partner-02:before { content: "\f119"; }
+.ga-partner-03:before { content: "\f11a"; }
+.ga-popup-01:before { content: "\f116"; }
+.ga-radar-01:before { content: "\f10f"; }
+.ga-responsive-01:before { content: "\f117"; }
+.ga-ruler:before { content: "\f109"; }
+.ga-security-01:before { content: "\f110"; }
+.ga-sign-sell-01:before { content: "\f102"; }
+.ga-tim-01:before { content: "\f11e"; }
+.ga-vivo-01:before { content: "\f11f"; }
